@@ -1,0 +1,12 @@
+2022-12-19 13:25:43,764 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-4 - Database [default] initialized
+2022-12-19 13:25:43,771 [INFO] from play.api.db.HikariCPConnectionPool in play-dev-mode-akka.actor.default-dispatcher-4 - Creating Pool for datasource 'default'
+2022-12-19 13:25:43,828 [INFO] from play.api.db.HikariCPConnectionPool in play-dev-mode-akka.actor.default-dispatcher-4 - datasource [default] bound to JNDI as DefaultDS
+2022-12-19 13:25:43,952 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2022-12-19 13:25:46,203 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev) (no global state)
+2022-12-19 13:49:42,803 [INFO] from akka.actor.CoordinatedShutdown in application-akka.actor.default-dispatcher-4 - Running CoordinatedShutdown with reason [ApplicationStoppedReason]
+2022-12-19 13:49:42,826 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.internal-dispatcher-3 - Shutting down connection pool.
+2022-12-19 13:49:43,132 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-12 - Database [default] initialized
+2022-12-19 13:49:43,132 [INFO] from play.api.db.HikariCPConnectionPool in play-dev-mode-akka.actor.default-dispatcher-12 - Creating Pool for datasource 'default'
+2022-12-19 13:49:43,136 [INFO] from play.api.db.HikariCPConnectionPool in play-dev-mode-akka.actor.default-dispatcher-12 - datasource [default] bound to JNDI as DefaultDS
+2022-12-19 13:49:43,158 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2022-12-19 13:49:43,454 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-12 - Application started (Dev) (no global state)
